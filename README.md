@@ -10,6 +10,6 @@
 
 *Output: Docstring*
 
-**Method :** Text Preprocessing | Text Tokenisation | Sequence Padding | Encoder Decoder | Attention | Generation | Evaluation using ROUGE or BLEU
+**Method :** Text Preprocessing -> Text Tokenisation -> Sequence Padding -> Encoder Decoder -> Attention -> Generation -> Evaluation using ROUGE or BLEU
 
 ![image](https://user-images.githubusercontent.com/89227170/178486363-419ffc97-b5d9-47b2-b969-84aca0b9ff95.png)
